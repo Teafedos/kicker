@@ -1,0 +1,18 @@
+.main_list{
+    
+    background-color: red;
+    padding-left: 0%;
+    height: 500px;
+}
+.title{
+    color: white;
+    text-decoration: underline;
+}
+
+.main_buttons{
+    margin-top: 10%;
+}
+
+.main_button{
+    font-weight: bold;
+}
